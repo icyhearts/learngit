@@ -1,6 +1,7 @@
 [submodule "test_pr"]
 	path = test_pr
 	url = https://github.com/icyhearts/test_pr
+    branch = stable
 [submodule "cumtBachelorThesisTemplate"]
 	path = cumtBachelorThesisTemplate
 	url = https://github.com/icyhearts/cumtBachelorThesisTemplate
